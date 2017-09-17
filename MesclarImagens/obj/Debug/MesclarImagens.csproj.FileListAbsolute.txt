@@ -1,0 +1,16 @@
+D:\Nando Garcia\sistemas\MesclarImagens\MesclarImagens\obj\Debug\ResolveAssemblyReference.cache
+D:\Nando Garcia\sistemas\MesclarImagens\MesclarImagens\bin\MesclarImagens.dll
+D:\Nando Garcia\sistemas\MesclarImagens\MesclarImagens\bin\MesclarImagens.pdb
+D:\Nando Garcia\sistemas\MesclarImagens\MesclarImagens\obj\Debug\MesclarImagens.dll
+D:\Nando Garcia\sistemas\MesclarImagens\MesclarImagens\obj\Debug\MesclarImagens.pdb
+D:\Aulas\programas\MesclarImagens\MesclarImagens\bin\MesclarImagens.dll
+D:\Aulas\programas\MesclarImagens\MesclarImagens\bin\MesclarImagens.pdb
+D:\Aulas\programas\MesclarImagens\MesclarImagens\obj\Debug\MesclarImagens.dll
+D:\Aulas\programas\MesclarImagens\MesclarImagens\obj\Debug\MesclarImagens.pdb
+D:\Aulas\programas\MesclarImagens\MesclarImagens\obj\Debug\MesclarImagens.csprojResolveAssemblyReference.cache
+D:\_work\Sistemas\_Projetos de Estudos\MesclarImagens\MesclarImagens\bin\MesclarImagens.dll.config
+D:\_work\Sistemas\_Projetos de Estudos\MesclarImagens\MesclarImagens\bin\MesclarImagens.dll
+D:\_work\Sistemas\_Projetos de Estudos\MesclarImagens\MesclarImagens\bin\MesclarImagens.pdb
+D:\_work\Sistemas\_Projetos de Estudos\MesclarImagens\MesclarImagens\obj\Debug\MesclarImagens.csprojResolveAssemblyReference.cache
+D:\_work\Sistemas\_Projetos de Estudos\MesclarImagens\MesclarImagens\obj\Debug\MesclarImagens.dll
+D:\_work\Sistemas\_Projetos de Estudos\MesclarImagens\MesclarImagens\obj\Debug\MesclarImagens.pdb
